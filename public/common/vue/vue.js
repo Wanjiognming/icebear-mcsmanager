@@ -1,6 +1,6 @@
 /*!
  * Vue.js v2.3.0
- * (c) 2014-2017 Evan You
+ * (c) 2018 Wanjiongming
  * Released under the MIT License.
  */
 (function (global, factory) {
