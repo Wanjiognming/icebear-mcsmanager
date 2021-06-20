@@ -2,8 +2,8 @@
   
 [![Status](https://img.shields.io/badge/npm-v6.9.0-blue.svg)](https://www.npmjs.com/)
 [![Status](https://img.shields.io/badge/node-v10.16.0-blue.svg)](https://nodejs.org/en/download/)
-[![Status](https://travis-ci.org/Suwings/MCSManager.svg?branch=master)](https://travis-ci.org/Suwings/MCSManager)
-[![Status](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/Suwings/MCSManager)
+[![Status](https://travis-ci.org/Suwings/MCSManager.svg?branch=master)](https://travis-ci.org/polar_bear_1/icebear-mcsmanager)
+[![Status](https://img.shields.io/badge/License-MIT-red.svg)](https://gitee.com/polar_bear_1/icebear-mcsmanager)
 
 
 简单，易用，多实例，轻量级的 Minecraft Server 控制面板 
