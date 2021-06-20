@@ -10,7 +10,7 @@
 
 
 
-[中文简体](https://gitee.com/polar_bear_1/icebear-mcsmanager) |  |  [API 文档](https://github.com/Suwings/MCSManager/wiki/API-Documentation)  | [二次开发参考文档](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Development_Document)
+[中文简体](https://gitee.com/polar_bear_1/icebear-mcsmanager) |   [API 文档](https://github.com/Suwings/MCSManager/wiki/API-Documentation)  | [二次开发参考文档](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Development_Document)
 
 <br />
 
