@@ -3,10 +3,6 @@ Independent File Manager
 - 轻量级，可扩展，独立的文件在线管理模块，可重复利用于其他各类程序。
 
 
-软件截图
------------
-![软件截图](http://39.108.57.206/public/README_IFM.png)
-
 技术栈
 -----------
 Webpack + Vue + jQuery + Bootstrap + sweetalert2 + Express
@@ -20,7 +16,7 @@ Webpack + Vue + jQuery + Bootstrap + sweetalert2 + Express
 -----------
 首先进行仓库克隆，并安装依赖。
 ```bash
-git clone https://github.com/Suwings/IndependentFileManager
+git clone https://gitee.com/polar_bear_1/icebear-mcsmanager/IndependentFileManager
 cd IndependentFileManager
 npm install
 ```
@@ -71,7 +67,7 @@ Bug 报告
 -----------
 欢迎各位发现任何 BUG 及时反馈给我，必当及时修复。
 
-您可以提供 issues 或发送邮件 `Suwings@outlook.com` 给予建议。
+您可以提供 issues 或发送邮件 `wanjiongming_01@outlook.com` 给予建议。
 
 
 开源协议与版权
