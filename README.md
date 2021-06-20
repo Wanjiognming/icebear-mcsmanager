@@ -10,12 +10,10 @@
 
 
 
-[中文简体](https://github.com/Suwings/MCSManager) | [中文繁體](README-traditional.md) |  [API 文档](https://github.com/Suwings/MCSManager/wiki/API-Documentation)  | [二次开发参考文档](https://github.com/Suwings/MCSManager/wiki/Development_Document)
+[中文简体](https://gitee.com/polar_bear_1/icebear-mcsmanager) |  |  [API 文档](https://github.com/Suwings/MCSManager/wiki/API-Documentation)  | [二次开发参考文档](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Development_Document)
 
 <br />
 
-**本项目 [赞助者名单](https://docs.qq.com/sheet/DYWJNVXhib0dtamh2?c=B3A0A0)**
-<br />
 
 
 简介
@@ -48,19 +46,19 @@
 -----------
 | 问题 | 详情 |
 | ------------------------ | --------------------------------------------------------------------------------------------- |
-无法正常安装面板？| [参考教程](https://github.com/Suwings/MCSManager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3)
-Linux 下面板如何后台运行？ | [参考方法](https://github.com/Suwings/MCSManager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3#%E4%BF%9D%E6%8C%81%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C)
-使用面板开启 `Bedrock Server` 端 | [参考教程](https://github.com/Suwings/MCSManager/wiki/%E4%BD%BF%E7%94%A8%E9%9D%A2%E6%9D%BF%E5%BC%80%E5%90%AF-Bedrock_server-%E6%9C%8D%E5%8A%A1%E7%AB%AF)
+无法正常安装面板？| [参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3)
+Linux 下面板如何后台运行？ | [参考方法](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3#%E4%BF%9D%E6%8C%81%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C)
+使用面板开启 `Bedrock Server` 端 | [参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8%E9%9D%A2%E6%9D%BF%E5%BC%80%E5%90%AF-Bedrock_server-%E6%9C%8D%E5%8A%A1%E7%AB%AF)
 面板管理员的默认账号和密码是什么？ | 账号 `#master` 密码 `123456`
 面板如何正确关闭？ | `Ctrl+C`
 配置文件是什么？ | `property.js` 文件
 如何修改面板默认端口？ | `property.js` 文件
-如何配置反向代理？ | [Apache 配置参考教程](https://github.com/Suwings/MCSManager/wiki/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86)
-配好反向代理却无法使用？ | [Apache](https://github.com/Suwings/MCSManager/issues/34) [Nginx](https://github.com/Suwings/MCSManager/issues/22) [宝塔上的Nginx](https://github.com/Suwings/MCSManager/wiki/%E5%85%B3%E4%BA%8E%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E7%9A%84-Nginx-%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%BB%A5%E5%8F%8ASSL%E8%AF%81%E4%B9%A6%E9%83%A8%E7%BD%B2)
+如何配置反向代理？ | [Apache 配置参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86)
+配好反向代理却无法使用？ | [Apache](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/34) [Nginx](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/22) [宝塔上的Nginx](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E5%85%B3%E4%BA%8E%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E7%9A%84-Nginx-%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%BB%A5%E5%8F%8ASSL%E8%AF%81%E4%B9%A6%E9%83%A8%E7%BD%B2)
 反代后文件管理偶尔失效? | 请检查反代机器的防火墙是否拦截
-我能修改登录页面吗？| [修改教程](https://github.com/Suwings/MCSManager/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BF%AE%E6%94%B9%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2)
-其他常见问题 | [查看 Wiki](https://github.com/Suwings/MCSManager/wiki)
-关于HTTP跳转HTTPS的帮助 | [查看 Nginx 301永久重定向 范例](https://github.com/Suwings/MCSManager/wiki/Nginx%E5%85%A8%E5%B1%80301%E6%B0%B8%E4%B9%85%E9%87%8D%E5%AE%9A%E5%90%91)
+我能修改登录页面吗？| [修改教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BF%AE%E6%94%B9%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2)
+其他常见问题 | [查看 Wiki](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki)
+关于HTTP跳转HTTPS的帮助 | [查看 Nginx 301永久重定向 范例](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Nginx%E5%85%A8%E5%B1%80301%E6%B0%B8%E4%B9%85%E9%87%8D%E5%AE%9A%E5%90%91)
 
 
 <br />
@@ -72,7 +70,7 @@ Linux 下面板如何后台运行？ | [参考方法](https://github.com/Suwings
 -----------
 对于 Windows 系统，**已整合成直接运行版本，下载即可运行**(建议使用管理员权限运行):
 
-http://mcsm.suwings.top/ (官方站点)
+http://icebear-mcsmanager.wjm.top/ (官方站点)https://gitee.com/polar_bear_1/
 
 - 前往官方网站下载 Windows 版本即可，双击 `运行.bat` 或 `Start.bat` 文件即可。
 
@@ -85,7 +83,7 @@ http://mcsm.suwings.top/ (官方站点)
 **一行命令快速安装（适用于AMD64架构 Ubuntu/Centos/Debian/Archlinux）**
 
 ```bash
-wget -qO- https://gitee.com/Suwingser/MCSManager-installer/raw/master/install.sh | bash
+wget -qO- https://gitee.com/polar_bear_1/icebear-mcsmanager-installer/raw/master/install.sh | bash
 ```
 
 - 执行完成后，使用 `systemctl start mcsm` 即可启动面板服务。
@@ -119,10 +117,10 @@ npm start
 ```
 
 - 注意，这种安装方式不会自动注册面板到系统服务（Service），所以必须使用 `screen` 软件来管理。
-- 或者您可以 [点击这里](https://github.com/Suwings/MCSManager/wiki/%E4%BD%BF%E7%94%A8-systemctl-%E7%AE%A1%E7%90%86%E5%99%A8) 来手动配置面板到系统
+- 或者您可以 [点击这里](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8-systemctl-%E7%AE%A1%E7%90%86%E5%99%A8) 来手动配置面板到系统
 
 
-> 关于更多的安装说明，请 [单击这里](https://github.com/Suwings/MCSManager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3)  
+> 关于更多的安装说明，请 [单击这里](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3)  
 
 <br />
 
@@ -142,9 +140,9 @@ npm start
 
 如果你不会使用，请点击`具体使用方法` 链接，如果你还未安装 Docker 请点击 `安装Docker` 的链接。
 
-**具体使用方法:** [单击跳转](https://github.com/Suwings/MCSManager/blob/gh-pages/Question_1.md)
+**具体使用方法:** [单击跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/blob/gh-pages/Question_1.md)
 
-**安装 Docker:** [单击跳转](https://github.com/Suwings/MCSManager/blob/gh-pages/Question_2.md)
+**安装 Docker:** [单击跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/blob/gh-pages/Question_2.md)
 
 
 <br />
@@ -198,7 +196,7 @@ npm start
 
 尽管默认没有 Https ，您可能在公共网络下不太放心，但是我们不传递明文的密码，可以保证你的账号的密码是难以泄露的。
 
-具体密码传递过程可参考 [单击这里跳转](https://github.com/Suwings/MCSManager/wiki/%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81%E4%BC%A0%E9%80%92%E8%BF%87%E7%A8%8B%E5%9B%BE)
+具体密码传递过程可参考 [单击这里跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81%E4%BC%A0%E9%80%92%E8%BF%87%E7%A8%8B%E5%9B%BE)
 
 **Property 文件**
 
@@ -216,11 +214,11 @@ npm start
 
 后端请通过反向代理完成，或自行修改 Express 初始化 App。
 
-[Apache 反向代理教程](https://github.com/Suwings/MCSManager/wiki/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86)
+[Apache 反向代理教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86)
 
-[SSL 功能实现示例](https://github.com/Suwings/MCSManager/issues/146)
+[SSL 功能实现示例]https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/146)
 
-**注意:** [Nginx 反向代理注意](https://github.com/Suwings/MCSManager/issues/22)  | [Apache 反向代理注意](https://github.com/Suwings/MCSManager/issues/34)  | [关于 Caddy 反向代理坑](https://github.com/Suwings/MCSManager/issues/122)
+**注意:** [Nginx 反向代理注意](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/22)  | [Apache 反向代理注意](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/34)  | [关于 Caddy 反向代理坑](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/122)
 
 <br />
 
@@ -242,7 +240,7 @@ npm start
 -----------
 欢迎发现任何 BUG 及时反馈，必当及时修复。
 
-若发现严重安全漏洞又不便公开发布，请发送邮件至: Suwings@outlook.com，安全问题修复后将在代码中附加漏洞发现者姓名。
+若发现严重安全漏洞又不便公开发布，请发送邮件至: wanjiongming_01@outlook.com，安全问题修复后将在代码中附加漏洞发现者姓名。
 
 <br />
 
