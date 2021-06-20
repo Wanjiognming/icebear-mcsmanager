@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/License-MIT-red.svg)](https://gitee.com/polar_bear_1/icebear-mcsmanager)
 
 
-简单，易用，多实例，轻量级的 Minecraft Server 控制面板 
+简单，易用，多实例，轻量级的 Minecraft Server 控制面板   Created By Wanjiongming,From:2018.03.19
 
 
 
