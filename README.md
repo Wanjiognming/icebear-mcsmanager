@@ -10,7 +10,7 @@
 
 
 
-[中文简体](https://gitee.com/polar_bear_1/icebear-mcsmanager) |   [API 文档](https://github.com/Suwings/MCSManager/wiki/API-Documentation)  | [二次开发参考文档](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Development_Document)
+[中文简体](https://gitee.com/polar_bear_1/icebear-mcsmanager) |   [API 文档](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/API-Documentation?sort_id=4149976)  | [二次开发参考文档](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Development_Document?sort_id=4149977)
 
 <br />
 
@@ -47,18 +47,18 @@
 | 问题 | 详情 |
 | ------------------------ | --------------------------------------------------------------------------------------------- |
 无法正常安装面板？| [参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3)
-Linux 下面板如何后台运行？ | [参考方法](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3#%E4%BF%9D%E6%8C%81%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C)
-使用面板开启 `Bedrock Server` 端 | [参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8%E9%9D%A2%E6%9D%BF%E5%BC%80%E5%90%AF-Bedrock_server-%E6%9C%8D%E5%8A%A1%E7%AB%AF)
+Linux 下面板如何后台运行？ | [参考方法](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3?sort_id=4149979)
+使用面板开启 `Bedrock Server` 端 | [参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/%E4%BD%BF%E7%94%A8%E9%9D%A2%E6%9D%BF%E5%BC%80%E5%90%AF-Bedrock_server-%E6%9C%8D%E5%8A%A1%E7%AB%AF?sort_id=4149986)
 面板管理员的默认账号和密码是什么？ | 账号 `#master` 密码 `123456`
 面板如何正确关闭？ | `Ctrl+C`
 配置文件是什么？ | `property.js` 文件
 如何修改面板默认端口？ | `property.js` 文件
-如何配置反向代理？ | [Apache 配置参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86)
-配好反向代理却无法使用？ | [Apache](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/34) [Nginx](https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/22) [宝塔上的Nginx](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E5%85%B3%E4%BA%8E%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E7%9A%84-Nginx-%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%BB%A5%E5%8F%8ASSL%E8%AF%81%E4%B9%A6%E9%83%A8%E7%BD%B2)
+如何配置反向代理？ | [Apache 配置参考教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Windows-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%BA%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%E5%92%8C%E9%85%8D%E7%BD%AEIIS%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86?sort_id=4149981)
+配好反向代理却无法使用？ | [Apache](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Windows-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%BA%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%E5%92%8C%E9%85%8D%E7%BD%AEIIS%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86?sort_id=4149981) [Nginx](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Windows-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%BA%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%E5%92%8C%E9%85%8D%E7%BD%AEIIS%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86?sort_id=4149981) [宝塔上的Nginx](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Windows-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%BA%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%E5%92%8C%E9%85%8D%E7%BD%AEIIS%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86?sort_id=4149981)
 反代后文件管理偶尔失效? | 请检查反代机器的防火墙是否拦截
-我能修改登录页面吗？| [修改教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BF%AE%E6%94%B9%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2)
-其他常见问题 | [查看 Wiki](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki)
-关于HTTP跳转HTTPS的帮助 | [查看 Nginx 301永久重定向 范例](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Nginx%E5%85%A8%E5%B1%80301%E6%B0%B8%E4%B9%85%E9%87%8D%E5%AE%9A%E5%90%91)
+我能修改登录页面吗？| [修改教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BF%AE%E6%94%B9%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2?sort_id=4149990)
+其他常见问题 | [查看 Wiki](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis)
+关于HTTP跳转HTTPS的帮助 | [查看 Nginx 301永久重定向 范例](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Nginx%E5%85%A8%E5%B1%80301%E6%B0%B8%E4%B9%85%E9%87%8D%E5%AE%9A%E5%90%91?sort_id=4149980)
 
 
 <br />
@@ -117,10 +117,10 @@ npm start
 ```
 
 - 注意，这种安装方式不会自动注册面板到系统服务（Service），所以必须使用 `screen` 软件来管理。
-- 或者您可以 [点击这里](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8-systemctl-%E7%AE%A1%E7%90%86%E5%99%A8) 来手动配置面板到系统
+- 或者您可以 [点击这里](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3?sort_id=4149979) 来手动配置面板到系统
 
 
-> 关于更多的安装说明，请 [单击这里](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3)  
+> 关于更多的安装说明，请 [单击这里](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/Linux-%E4%B8%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3?sort_id=4149979)  
 
 <br />
 
@@ -140,9 +140,6 @@ npm start
 
 如果你不会使用，请点击`具体使用方法` 链接，如果你还未安装 Docker 请点击 `安装Docker` 的链接。
 
-**具体使用方法:** [单击跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/blob/gh-pages/Question_1.md)
-
-**安装 Docker:** [单击跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/blob/gh-pages/Question_2.md)
 
 
 <br />
@@ -172,7 +169,7 @@ npm start
 | **core/DataModel.js**            |数据持久化模型，几乎是所有的配置的 I/O 模型|
 | **model/**                      |模型层，用于提供控制器与服务端，用户操作，也提供设计模式模型|
 | **helper/**                     |业务逻辑辅助层，用于辅助和重复利用业务逻辑|
-| **onlinefs/**                    |文件管理独立模块 ([Suwings/IndependentFileManager](https://github.com/Suwings/IndependentFileManager))|
+| **onlinefs/**                    |文件管理独立模块 ([Wanjiongming/IndependentFileManager](https://gitee.com/polar_bear_1/icebear-mcsmanager/tree/master/onlinefs))|
 
 <br />
 
@@ -196,7 +193,7 @@ npm start
 
 尽管默认没有 Https ，您可能在公共网络下不太放心，但是我们不传递明文的密码，可以保证你的账号的密码是难以泄露的。
 
-具体密码传递过程可参考 [单击这里跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81%E4%BC%A0%E9%80%92%E8%BF%87%E7%A8%8B%E5%9B%BE)
+具体密码传递过程可参考 [单击这里跳转](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81%E4%BC%A0%E9%80%92%E8%BF%87%E7%A8%8B%E5%9B%BE?sort_id=4149988)
 
 **Property 文件**
 
@@ -214,7 +211,7 @@ npm start
 
 后端请通过反向代理完成，或自行修改 Express 初始化 App。
 
-[Apache 反向代理教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wiki/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86)
+[Apache 反向代理教程](https://gitee.com/polar_bear_1/icebear-mcsmanager/wikis/%E4%BD%BF%E7%94%A8-Apache2.4-%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86?sort_id=4149983)
 
 [SSL 功能实现示例]https://gitee.com/polar_bear_1/icebear-mcsmanager/issues/146)
 
