@@ -23,7 +23,7 @@ Docker 是一个方便部署，虚拟化，安全稳定的一个软件。MCSMana
 
 不要紧张，几条命令而已，当然如果您有一定的知识，那自然是最好！
 
-**如何安装 Docker：** https://github.com/Suwings/MCSManager/blob/gh-pages/Question_2.md
+**如何安装 Docker：** https://gitee.com/polar_bear_1/icebear-mcsmanager/blob/gh-pages/Question_2.md
 
 
 <br />
