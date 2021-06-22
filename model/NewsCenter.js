@@ -4,7 +4,7 @@ const http = require("http");
 //最新动态信息获取模块
 
 //官方新闻API接口
-let newsUrl1 = "https://gitee.com/polar_bear_1/icebear-mcsmanager" + Date.parse(new Date());
+let newsUrl1 = "http://gitee.com/polar_bear_1/icebear-mcsmanager" + Date.parse(new Date());
 
 let requestNewsUrl = newsUrl1;
 let requestNewsCount = 1;
