@@ -83,7 +83,7 @@ http://icebear-mcsmanager.wjm.top/ (官方站点)https://gitee.com/polar_bear_1/
 **一行命令快速安装（适用于AMD64架构 Ubuntu/Centos/Debian/Archlinux）**
 
 ```bash
-wget -qO- https://gitee.com/polar_bear_1/icebear-mcsmanager-installer/raw/master/install.sh | bash
+wget -qO- https://gitee.com/polar_bear_1/icebear-mcsmanager/raw/master/install.sh | bash
 ```
 
 - 执行完成后，使用 `systemctl start mcsm` 即可启动面板服务。
